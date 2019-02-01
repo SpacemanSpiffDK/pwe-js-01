@@ -1,0 +1,25 @@
+/* 
+	CSS by Dan Høegh
+	UCN MMD 2018 
+*/
+
+body {
+	font-family: sans-serif;
+	padding: 25px;
+}
+
+h1 {
+	margin-top: 0;
+}
+
+div#output {
+	border: 1px solid black;
+	padding: 10px;
+	margin: 25px 0;
+	max-width: 500px;
+	min-height: 100px;
+}
+
+input[type=button] {
+	padding: 10px;
+}
